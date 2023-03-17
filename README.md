@@ -1,3 +1,3 @@
 # calculate-disks
 
-calculate-disks.netlify.app
+https://calculate-disks.netlify.app
